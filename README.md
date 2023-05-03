@@ -1,14 +1,13 @@
-# Template: Standard Robot Framework
+# Template: Basic Python only robot
 
-This is the simplest template to start from.
+Get started with just Python.
 
-- Get started from a simple task template in `tasks.robot`.
-  - Uses [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) syntax.
-- You can configure your robot `robot.yaml`.
-- You can configure dependencies in `conda.yaml`.
+This template robot:
+
+- Uses only Python.
+- Provides a simple template to start from (`task.py`).
 
 ## Learning materials
 
-- [Robocorp Developer Training Courses](https://robocorp.com/docs/courses)
-- [Documentation links on Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework)
-- [Example bots in Robocorp Portal](https://robocorp.com/portal)
+- [Python basics](https://robocorp.com/docs/languages-and-frameworks/python)
+- [Best practices in creating Python robots](https://robocorp.com/docs/development-guide/qa-and-best-practices/python-robots)
